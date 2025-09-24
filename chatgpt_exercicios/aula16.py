@@ -12,3 +12,4 @@ for i in range(1, num01+1):
         print(f"{i} par")
     else:
         print(f"{i} ímpar")
+        
